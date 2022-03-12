@@ -20,3 +20,10 @@ I'm a computer science student who is passionate about writing code, solving pro
   <code><img height="70" src="https://github.com/marcode24/marcode24/blob/main/assets/git.png"></code> &nbsp;&nbsp;
   <code><img height="70" src="https://github.com/marcode24/marcode24/blob/main/assets/npm.png"></code> &nbsp;&nbsp;
 </p>
+
+## I'm currently learning these technologies
+
+<p align="center">
+  <code><img height="70" src="https://github.com/marcode24/marcode24/blob/main/assets/nest.png"></code> &nbsp;&nbsp;
+  <code><img height="70" src="https://github.com/marcode24/marcode24/blob/main/assets/graph.png"></code> &nbsp;&nbsp;
+</p>
