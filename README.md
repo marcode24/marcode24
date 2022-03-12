@@ -7,6 +7,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 💻 I ~like~ **love** coding
 - 📗 I’m currently learning backend development
 - 🔧 I’m looking to collaborate on opensource and group projects.
+- 🧑‍💻 I want to become a full-stack developer
 
 ## Here are some technologies I use
 <p align="center">
