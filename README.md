@@ -14,7 +14,6 @@ I'm a computer science student who is passionate about writing code, solving pro
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/html.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/css.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/js.png"></code> &nbsp;&nbsp;
-  <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/bootstrap.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/angular.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/typescript.png"></code> &nbsp;&nbsp;
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/nodejs.png"></code> &nbsp;&nbsp;
@@ -27,5 +26,4 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <p align="center">
   <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/nest.png"></code> &nbsp;&nbsp;
-  <code><img height="40" src="https://github.com/marcode24/marcode24/blob/main/assets/graph.png"></code> &nbsp;&nbsp;
 </p>
