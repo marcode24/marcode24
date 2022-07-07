@@ -1,7 +1,7 @@
 
 # Hello there, I'm Marco 👋
 
-<img align="right" alt="Person coding gif" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
+<img align="right" alt="Person coding gif" style="border-radius:20px" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
 I'm a computer science student who is passionate about writing code, solving problems and building software.
 
 - 💻 I ~like~ **love** coding
