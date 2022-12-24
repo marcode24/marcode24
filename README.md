@@ -42,20 +42,40 @@ I'm a computer science student who is passionate about writing code, solving pro
 [![GitHub Streak dark](https://streak-stats.demolab.com?user=marcode24&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
 [![GitHub Streak light](https://streak-stats.demolab.com?user=marcode24&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
 
-[![Marco Cruz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcode24&&show_icons=true&title=123&custom_title=Github%20Stats&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
-[![Marco Cruz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcode24&&show_icons=true&title=123&custom_title=Github%20Stats&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats" />
+</picture>
 
-[![Top Langs top-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
-[![Top Langs top-light](https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8" />
+</picture>
 
-[![Marco Cruz's wakatime stats dark](https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
-[![Marco Cruz's wakatime stats light](https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical"
+    media="(prefers-color-scheme: dark)" />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24" />
+</picture>
 
 ## 📫 How to reach me
 
-<a href="mailto:marco24cruz08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-
 <p
+  <a href="mailto:marco24cruz08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/marco-acg24/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
   <a href="https://twitter.com/marco_cg24"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
