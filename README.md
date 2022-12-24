@@ -40,7 +40,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 ## 📈 My GitHub Stats
 
 [![GitHub Streak dark](https://streak-stats.demolab.com?user=marcode24&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
-[![GitHub Streak light](https://streak-stats.demolab.com?user=marcode24&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
 
 <picture>
   <source
@@ -71,6 +70,9 @@ I'm a computer science student who is passionate about writing code, solving pro
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24" />
 </picture>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## 📫 How to reach me
 
