@@ -1,7 +1,7 @@
-
 # Hello there, I'm Marco 👋
 
-<img align="right" alt="Person coding gif" style="border-radius:20px" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
+<img align="right" alt="coding.gif" style="border-radius:20px" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
+
 I'm a computer science student who is passionate about writing code, solving problems and building software.
 
 - 💻 I ~like~ **love** coding
@@ -9,15 +9,52 @@ I'm a computer science student who is passionate about writing code, solving pro
 - 🔧 I’m looking to collaborate on opensource and group projects.
 - 🧑‍💻 I want to become a full-stack developer
 
-## My Stats
+## 🛠️ My Tech Stack
 
-![Marco Cruz's GitHub stats](https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&theme=radical)
+<p>
+  <code><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Angular-DD0031?style=flat&logo=angular&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Nodejs-339933?style=flat&logo=node.js&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-GraphQL-E10098?style=flat&logo=graphql&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-NestJS-E0234E?style=flat&logo=nestjs&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white"></code> &nbsp;
+</p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8)](https://github.com/marcode24/)
+## 📕 I'm currently learning these technologies
 
-## I'm currently learning these technologies
+<p>
+  <code><img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white"></code> &nbsp;
+  <code><img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white"></code> &nbsp;
+</p>
 
-<p align="center">
-  <code><img height="40" src="./assets/nest.png"></code> &nbsp;&nbsp;
-  <code><img height="40" src="./assets/vue.png"></code> &nbsp;&nbsp;
+## 📈 My GitHub Stats
+
+[![GitHub Streak dark](https://streak-stats.demolab.com?user=marcode24&theme=radical#gh-dark-mode-only)](https://git.io/streak-stats)
+[![GitHub Streak light](https://streak-stats.demolab.com?user=marcode24&theme=default#gh-light-mode-only)](https://git.io/streak-stats)
+
+[![Marco Cruz's GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=marcode24&&show_icons=true&title=123&custom_title=Github%20Stats&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
+[![Marco Cruz's GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=marcode24&&show_icons=true&title=123&custom_title=Github%20Stats&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
+
+[![Top Langs top-dark](https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
+[![Top Langs top-light](https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8&theme=radical#gh-light-mode-only)](https://github.com/marcode24/)
+
+[![Marco Cruz's wakatime stats dark](https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
+[![Marco Cruz's wakatime stats light](https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default#gh-light-mode-only)](https://github.com/marcode24/)
+
+## 📫 How to reach me
+
+<p
+  <a href="mailto:marco24cruz08@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/marco-acg24/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+  <a href="https://twitter.com/marco_cg24"><img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white"/></a>
 </p>
