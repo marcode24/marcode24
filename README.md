@@ -63,10 +63,10 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <picture>
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical&v=2"
     media="(prefers-color-scheme: dark)" />
   <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default"
+    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default&v=2"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24" />
 </picture>
