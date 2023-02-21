@@ -39,17 +39,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 ## 📈 My GitHub Stats
 
-[![GitHub Streak dark](https://streak-stats.demolab.com?user=marcode24&theme=radical#gh-dark-mode-only)](https://github.com/marcode24/)
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats&theme=radical"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats&theme=default"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api?username=marcode24&show_icons=true&title=123&custom_title=Github%20Stats" />
-</picture>
 
 <picture>
   <source
@@ -61,15 +50,6 @@ I'm a computer science student who is passionate about writing code, solving pro
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcode24&layout=compact&langs_count=8" />
 </picture>
 
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=radical&v=02&langs_count=8"
-    media="(prefers-color-scheme: dark)" />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24&theme=default&v=2&langs_count=8"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=marcode24" />
-</picture>
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
