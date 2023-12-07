@@ -52,18 +52,8 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                104 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   05.64 % 
-🌆 Daytime                968 commits         █████████████░░░░░░░░░░░░   52.49 % 
-🌃 Evening                634 commits         █████████░░░░░░░░░░░░░░░░   34.38 % 
-🌙 Night                  138 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.48 % 
-```
-
-
-
- Last Updated on 12/06/2023 01:10:38 UTC
+ Last Updated on 12/07/2023 01:10:18 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
