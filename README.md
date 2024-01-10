@@ -63,7 +63,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 
 
- Last Updated on 01/09/2024 01:10:48 UTC
+ Last Updated on 01/10/2024 01:11:16 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
