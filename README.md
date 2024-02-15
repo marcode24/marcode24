@@ -33,7 +33,6 @@ I'm a computer science student who is passionate about writing code, solving pro
 ## 📕 I'm currently learning these technologies
 
 <p>
-  <img src="https://img.shields.io/badge/-Vue.js-4FC08D?style=flat&logo=vue.js&logoColor=white">
   <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
 </p>
 
