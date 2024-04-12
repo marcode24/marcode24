@@ -52,7 +52,7 @@ I'm a computer science student who is passionate about writing code, solving pro
 
 <!--START_SECTION:waka-->
 
- Last Updated on 04/11/2024 01:07:48 UTC
+ Last Updated on 04/12/2024 01:07:33 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
