@@ -2,7 +2,7 @@
 
 <img align="right" alt="coding.gif" style="border-radius:20px" src="https://github.com/marcode24/marcode24/blob/main/assets/coding.gif" width="180" />
 
-I'm a computer science student who is passionate about writing code, solving problems and building software.
+I am a computer science professional passionate about writing code, solving problems, and building software. This personal repository is a collection of my projects, code, and collaborations in various areas of programming and software development.
 
 - 💻 I ~like~ **love** coding
 - 📗 I’m currently learning backend development
@@ -28,12 +28,24 @@ I'm a computer science student who is passionate about writing code, solving pro
   <img src="https://img.shields.io/badge/-SCSS-CC6699?style=flat&logo=sass&logoColor=white">
   <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white">
   <img src="https://img.shields.io/badge/-Azure-0089D6?style=flat&logo=microsoft-azure&logoColor=white">
+  <img src="https://img.shields.io/badge/-C%23-239120?style=flat&logo=c-sharp&logoColor=white">
+  <img src="https://img.shields.io/badge/-.NET-512BD4?style=flat&logo=.net&logoColor=white">
+  <img src="https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white">
+  <img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white">
+  <img src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat&logo=microsoft-sql-server&logoColor=white">
+  <img src="https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white">
+  <img src="https://img.shields.io/badge/-Astro-000000?style=flat&logo=astro&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jest-C21325?style=flat&logo=jest&logoColor=white">
+  <img src="https://img.shields.io/badge/-Jasmine-8A4182?style=flat&logo=jasmine&logoColor=white">
+  <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat&logo=figma&logoColor=white">
 </p>
 
 ## 📕 I'm currently learning these technologies
 
 <p>
   <img src="https://img.shields.io/badge/-Tailwind CSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white">
+  <img src="https://img.shields.io/badge/-Go-00ADD8?style=flat&logo=go&logoColor=white">
 </p>
 
 ## 📈 My GitHub Stats
