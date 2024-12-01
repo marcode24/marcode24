@@ -63,18 +63,8 @@ I am a computer science professional passionate about writing code, solving prob
 
 
 <!--START_SECTION:waka-->
-**I'm an Early 🐤** 
 
-```text
-🌞 Morning                203 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 % 
-🌆 Daytime                1355 commits        █████████████░░░░░░░░░░░░   50.26 % 
-🌃 Evening                933 commits         █████████░░░░░░░░░░░░░░░░   34.61 % 
-🌙 Night                  205 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-```
-
-
-
- Last Updated on 11/30/2024 01:38:45 UTC
+ Last Updated on 12/01/2024 01:54:43 UTC
 <!--END_SECTION:waka-->
 
 ## 📫 How to reach me
